@@ -6,7 +6,7 @@
 1. Utilizar un software CAD para modelar la pieza.  
 2. Aplicar las dimensiones calculadas con la suma de los dígitos del código.  
 3. Exportar el modelo en formato [Formato requerido: .SLDPRT]
-4. Responder las preguntas en la sección de evaluación.  
+4. Tomar capturas de pantalla y construir un archivo PDF para realizar la entrega en eCampus.
 
 ---
 
@@ -22,19 +22,27 @@ Crear la pieza de la siguiente imagen en SolidWorks:
 - Origen de la pieza: arbitrario
 - Todos los taladros son por todo, a menos que se muestre algo distinto.
 - Material: acero ASTM A36
-- Densidad = $7850	kg/m^3$
-- X = Suma de los digitos de su código 
-- A = 4X 
-- B = 2,5X 
-- C = 2X 
+Densidad = $7850 kg/m^3$
+
+X = Suma de los digitos de su código 
+
+A = 4X 
+
+B = 2,5X 
+
+C = 2X 
 
 **Ejemplo** 
 
-- Código = 5562201 
-- X = 5+5+6+2+2+0+1 = 21 
-- A = 4(21) = 84
-- B = 2,5(21) = 52,5
-- C = 2(21) = 42 
+Código = 5562201 
+
+X = 5+5+6+2+2+0+1 = 21 
+
+A = 4(21) = 84
+
+B = 2,5(21) = 52,5
+
+C = 2(21) = 42 
 
 ¿Cuál es la masa total de la pieza (gramos)?
 
@@ -62,7 +70,9 @@ Crear la pieza de la siguiente imagen en SolidWorks:
 ![Ejercicio4](assets/Ejercicio4.jpg)
 
 Material: acero ASTM A36
-Densidad = $7850	kg/m^3$
+
+Densidad = $7850 kg/m^3$
+
 ¿Cuál es la masa total de la pieza (gramos)?
 
 ## Ejercicio 5
@@ -72,7 +82,9 @@ Crear la pieza de la siguiente imagen en SolidWorks:
 ![Ejercicio5](assets/Ejercicio5.jpg)
 
 Material: acero ASTM A36
-Densidad = $7850	kg/m^3$
+
+Densidad = $7850 kg/m^3$
+
 ¿Cuál es la masa total de la pieza (gramos)?
 
 
