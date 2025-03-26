@@ -14,7 +14,7 @@
 
 Crear la pieza de la siguiente imagen en SolidWorks:
 
-![Ejercicio1](assets/ejercicio1.png)
+![Ejercicio1](/assets/ejercicio1.png)
 
 - (Guarde la pieza después de cada pregunta en un archivo diferente en caso de que deba revisarla)
 - Sistema de unidades: MMGS (milímetro, gramo, segundo)
@@ -38,9 +38,9 @@ Código = 5562201
 
 X = 1 
 
-A = 81 + 1 = 50
+A = 81 + 1 = 82
 
-B = 57 + 1 = 2
+B = 57 + 1 = 58
 
 C = 43 + 1 = 44
 
@@ -50,8 +50,8 @@ C = 43 + 1 = 44
 
 Realice las modificaciones que se observan en la siguiente imagen:
 
-![Ejercicio2-1](assets/ejercicio2-1.png)
-![Ejercicio2-2](assets/ejercicio2-2.png)
+![Ejercicio2-1](/assets/ejercicio2-1.png)
+![Ejercicio2-2](/assets/ejercicio2-2.png)
 
 ¿Cuál es la masa total de la pieza (gramos)?
 
@@ -59,7 +59,7 @@ Realice las modificaciones que se observan en la siguiente imagen:
 
 Realice las modificaciones que se observan en la siguiente imagen:
 
-![Ejercicio3](assets/ejercicio3.png)
+![Ejercicio3](/assets/ejercicio3.png)
 
 ¿Cuál es la masa total de la pieza (gramos)?
 
@@ -67,7 +67,7 @@ Realice las modificaciones que se observan en la siguiente imagen:
 
 Crear la pieza de la siguiente imagen en SolidWorks:
 
-![Ejercicio4](assets/Ejercicio4.jpg)
+![Ejercicio4](/assets/ejercicio4.png)
 
 Material: acero ASTM A36
 
@@ -79,7 +79,7 @@ Densidad = $7850 kg/m^3$
 
 Crear la pieza de la siguiente imagen en SolidWorks:
 
-![Ejercicio5](assets/Ejercicio5.jpg)
+![Ejercicio5](/assets/Ejercicio4.jpg)
 
 Material: acero ASTM A36
 
