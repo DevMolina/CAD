@@ -24,25 +24,25 @@ Crear la pieza de la siguiente imagen en SolidWorks:
 - Material: acero ASTM A36
 Densidad = $7850 kg/m^3$
 
-X = Suma de los digitos de su código 
+X = Último digito de su código 
 
-A = 4X 
+A = 81 + X
 
-B = 2,5X 
+B = 57 + X
 
-C = 2X 
+C = 43 + X
 
 **Ejemplo** 
 
 Código = 5562201 
 
-X = 5+5+6+2+2+0+1 = 21 
+X = 1 
 
-A = 4(21) = 84
+A = 81 + 1 = 50
 
-B = 2,5(21) = 52,5
+B = 57 + 1 = 2
 
-C = 2(21) = 42 
+C = 43 + 1 = 44
 
 ¿Cuál es la masa total de la pieza (gramos)?
 
