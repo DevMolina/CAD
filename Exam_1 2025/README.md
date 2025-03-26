@@ -14,7 +14,7 @@
 
 Crear la pieza de la siguiente imagen en SolidWorks:
 
-![Ejercicio1](assets/ejercicio1.png)
+![Ejercicio1](/assets/ejercicio1.png)
 
 - (Guarde la pieza después de cada pregunta en un archivo diferente en caso de que deba revisarla)
 - Sistema de unidades: MMGS (milímetro, gramo, segundo)
